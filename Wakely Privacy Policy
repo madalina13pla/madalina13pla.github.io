@@ -1,0 +1,99 @@
+Privacy Policy
+Introduction
+Madzilla Apps ("we", "our", or "us") built Wakely Alarm as a free app supported by advertising, with an optional one-time premium upgrade. This Privacy Policy explains what information is collected when you use the app, how it is used, and your rights regarding that information. By installing or using the app you agree to the practices described here.
+
+1. Information We Collect
+We do not require you to create an account or enter personal information manually. The following data is collected automatically.
+Usage & Analytics Data
+Collected via Firebase Analytics (Google LLC):
+* App events (e.g. alarms created, sound packs selected, premium purchase initiated) 
+* Device model, OS version, language, and time zone 
+* App version and session duration 
+Crash & Diagnostic Data
+Collected via Firebase Crashlytics (Google LLC):
+* Stack traces and error logs when the app crashes 
+* Device state at the time of the crash (memory, OS version, app version) 
+Advertising Data
+Collected by Google AdMob (Google LLC):
+* Advertising ID (Google Advertising ID / GAID) 
+* Coarse location derived from IP address (for ad relevance) 
+* Ad interaction data (impressions, clicks) 
+* Consent status for personalised advertising 
+We use the Google User Messaging Platform (UMP) to request your consent before serving personalised ads, in compliance with GDPR and other applicable regulations. If you decline consent, only non-personalised ads will be shown.
+Push Notification Token
+Collected via Firebase Cloud Messaging (FCM):
+* FCM device token, used to send optional notifications about important app updates 
+* You can disable notifications at any time in your device settings 
+Purchase Data
+Processed by Google Play:
+* Purchase status (whether Lifetime Premium has been purchased) 
+* Purchase token provided by Google Play Billing 
+* We do not receive or store payment card details 
+Data Stored Locally on Your Device
+(Never uploaded to our servers)
+* Your alarms: time, days, label, sound selection, vibration preference, difficulty 
+* Premium status flag 
+* Temporarily unlocked sound packs (via watch-ad feature, valid 1 hour) 
+* App preferences 
+
+2. How We Use Your Information
+We use the collected data in order to:
+* Operate and deliver core alarm functionality 
+* Display advertisements and generate revenue that keeps the app free 
+* Analyse app usage and improve features and stability 
+* Identify and fix crashes and technical issues 
+* Verify and restore premium purchases 
+* Send update notifications via push messaging 
+
+3. Third-Party Services
+The app integrates the following third-party SDKs, each governed by its own privacy policy:
+* Google AdMob — policies.google.com/privacy 
+* Firebase Analytics & Crashlytics — firebase.google.com/support/privacy 
+* Firebase Cloud Messaging — firebase.google.com/support/privacy 
+* Google Play Billing — play.google.com/about/play-terms 
+* Google User Messaging Platform (UMP) — policies.google.com/privacy 
+* Huawei HMS Ads & IAP (Huawei AppGallery build only) — consumer.huawei.com/en/privacy 
+
+4. Advertising & Your Choices
+The app shows ads to users who have not purchased the Lifetime Premium upgrade. Ad formats used include: App Open ads, Interstitial ads, Rewarded Video ads (opt-in to unlock a sound pack temporarily), and Native ads.
+On first launch and whenever your consent status changes, a consent dialog is presented. You may choose personalised or non-personalised ads, or manage your ad settings at any time through your device’s Google Settings → Ads → Reset Advertising ID.
+Purchasing the Lifetime Premium upgrade removes all ads permanently.
+
+5. Permissions Explained
+The app may request the following permissions:
+* SCHEDULE_EXACT_ALARM / USE_EXACT_ALARM — Required to fire alarms at the exact time you set 
+* VIBRATE — Allows the alarm to vibrate your device 
+* WAKE_LOCK — Keeps the device awake while the alarm is ringing 
+* USE_FULL_SCREEN_INTENT — Displays the alarm screen when the device is locked 
+* RECEIVE_BOOT_COMPLETED — Re-schedules your alarms after a device reboot 
+* FOREGROUND_SERVICE — Runs a background service to ensure alarms trigger reliably 
+* POST_NOTIFICATIONS — Shows the alarm notification and update alerts 
+* INTERNET — Required for ads, analytics, crash reporting, and purchase verification 
+* REQUEST_IGNORE_BATTERY_OPTIMIZATIONS — Requests exemption from battery saver to prevent alarm delays 
+* SYSTEM_ALERT_WINDOW — Required on some devices to display the alarm screen over other apps 
+* READ_EXTERNAL_STORAGE (Android 12 and below) — Used if you select a custom ringtone 
+
+6. Data Retention
+Local data such as alarms and preferences remains on your device until you uninstall the app or clear its data through your device settings.
+Analytics and crash data retained by Firebase follows Google’s standard retention policies (typically 60–90 days).
+
+7. Children's Privacy
+The app is not directed at children under the age of 13 (or the applicable age of digital consent in your jurisdiction). We do not knowingly collect personal information from children.
+If you believe a child has provided personal data through the app, please contact us and we will take steps to delete it.
+
+8. Your Rights (GDPR / EEA Users)
+If you are located in the European Economic Area, you have the right to:
+* Access the personal data we hold about you 
+* Request correction or deletion of your data 
+* Object to or restrict processing of your data 
+* Withdraw consent to personalised ads at any time 
+* Lodge a complaint with your local data protection authority 
+To exercise these rights, contact us at: madzillaapps@gmail.com
+
+9. Data Security
+All data transmitted to Firebase and Google services uses TLS encryption. Local alarm data is stored in Android’s sandboxed application storage and is not accessible to other apps. We do not operate our own servers that store your personal data.
+
+10. Changes to This Policy
+We may update this Privacy Policy from time to time. When we do, we will update the “Last updated” date shown at the top of this page. Continued use of the app after changes constitutes acceptance of the revised policy. For significant changes, we may notify users via an in-app push notification.
+
+
