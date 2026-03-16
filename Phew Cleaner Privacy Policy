@@ -1,0 +1,79 @@
+Privacy Policy for Phew Cleaner
+Effective date: March 1, 2025
+Last updated: March 5, 2026
+
+This Privacy Policy describes how Madzilla Apps ("we", "us", "our") collects, uses, and protects information when you use the Phew Cleaner mobile application ("the App").
+
+1. INFORMATION WE COLLECT
+
+Automatically collected data:
+• Crash reports — anonymous technical data sent via Google Firebase Crashlytics to help us fix bugs (no personal data is included)
+• Analytics — anonymous usage statistics via Google Firebase Analytics (e.g. which features are used most, app open frequency)
+• Advertising identifiers — standard ad IDs used by Google AdMob to serve relevant ads in the free version of the App
+
+We do NOT collect your name, email address, phone number, or any personally identifiable information.
+
+2. INFORMATION WE DO NOT COLLECT
+
+• We do not read, copy, upload or transmit the contents of any files on your device
+• We do not collect photos, videos, audio or documents
+• We do not access your contacts, messages, call logs or location
+• All file scanning and deletion happens entirely on your device and never leaves it
+
+3. HOW WE USE INFORMATION
+
+The limited data we collect is used exclusively to:
+• Diagnose and fix crashes and bugs
+• Understand overall app usage to improve features
+• Display advertisements in the free version of the App (interstitial and native formats via Google AdMob)
+
+4. LOCAL PREFERENCES
+
+The App stores the following preferences locally on your device only — they are never transmitted:
+• Notification reminder setting (enabled/disabled)
+• Sound effects setting (enabled/disabled)
+• Cleaning history log (timestamps and freed-space amounts)
+• Tool-use counter (used to determine ad frequency)
+
+These preferences can be cleared at any time by uninstalling the App.
+
+5. THIRD-PARTY SERVICES
+
+The App integrates the following third-party services, each governed by their own privacy policies:
+• Google Firebase Crashlytics — crash reporting (https://firebase.google.com/support/privacy)
+• Google Firebase Analytics — anonymous usage analytics
+• Google AdMob — in-app advertising, including interstitial and native ad formats (https://policies.google.com/privacy)
+• Google Play Billing — in-app subscription management (https://play.google.com/about/play-terms)
+
+We do not sell, trade or rent your information to any third party.
+
+6. PERMISSIONS
+
+The App requests the following permissions, used solely for the stated purposes:
+• Storage / Media (READ_MEDIA_IMAGES, READ_MEDIA_VIDEO, READ_MEDIA_AUDIO, READ_EXTERNAL_STORAGE on older devices) — to scan and delete junk files, APKs, duplicate photos, screenshots, WhatsApp media, downloads, large files and to display the Storage Map
+• Package Usage Stats — to identify battery-draining apps in the Drain Detector tool and to show recently unused apps
+• Post Notifications — to send optional daily clean reminders at 8:00 PM
+• Kill Background Processes — to free RAM with the RAM Boost and CPU Cooler features
+• Request Ignore Battery Optimizations — to keep scheduled reminders working reliably
+• Query All Packages — to list installed user apps and detect orphan data from uninstalled apps
+
+You can revoke any permission at any time in your device Settings.
+
+7. DATA RETENTION
+
+Crash and analytics data is retained by Google Firebase according to their data retention policies. We do not store any data on our own servers.
+
+8. CHILDREN'S PRIVACY
+
+Phew Cleaner is not directed at children under the age of 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us so we can delete it.
+
+9. CHANGES TO THIS POLICY
+
+We may update this Privacy Policy from time to time. We will notify you of significant changes by updating the "Last updated" date at the top of this document. Your continued use of the App after any changes constitutes your acceptance of the new policy.
+
+10. CONTACT US
+
+If you have questions or concerns about this Privacy Policy, please contact us at:
+
+Madzilla Apps
+madzillaapps@gmail.com
